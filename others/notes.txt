@@ -1,0 +1,10 @@
+activate tensorflow venv.
+-> source /c/venvs/tensorflow/Scripts/activate
+-> deactivate
+
+dataset used
+-> widely-used collection of handwritten digits designed for 
+training and testing image classification systems.
+-> MNIST dataset is open source and freely available for research, 
+educational, and development purposes.
+
